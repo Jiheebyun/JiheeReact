@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb595ce3.css",
+    "main.js": "/static/js/main.20062027.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/dogfood17.png": "/static/media/dogfood17.e88eb8820859b894c2a7.png",
+    "static/media/dogfood18.png": "/static/media/dogfood18.ce23d56f855e95586521.png",
+    "static/media/dogfood13.png": "/static/media/dogfood13.7563a5bda4f005828c27.png",
+    "static/media/dogfood16.png": "/static/media/dogfood16.6631f4a4f5757e49b214.png",
+    "static/media/dogfood8.png": "/static/media/dogfood8.2f762a17db9eaa216544.png",
+    "static/media/dogfood9.png": "/static/media/dogfood9.2319f6b2d8b8c4c2adc3.png",
+    "static/media/dogfood6.png": "/static/media/dogfood6.bb4082e76b58ff89b246.png",
+    "static/media/dogfood5.png": "/static/media/dogfood5.5ee50be68a61268cfc62.png",
+    "static/media/dogfood7.png": "/static/media/dogfood7.dc93146aab5783d14179.png",
+    "static/media/dogfood15.png": "/static/media/dogfood15.9b6db96829f0bdf95102.png",
+    "static/media/dogfood0.png": "/static/media/dogfood0.833f80d67a9ce5c21233.png",
+    "static/media/dogfood3.png": "/static/media/dogfood3.9d40858011d1bb351b67.png",
+    "static/media/bg.jpg": "/static/media/bg.b8a6d340ab44e5322354.jpg",
+    "static/media/dogfood11.png": "/static/media/dogfood11.4c8a07a86f0f2a15387e.png",
+    "static/media/dogfood4.png": "/static/media/dogfood4.76c6d6ea8c63438018c9.png",
+    "static/media/dogfood14.png": "/static/media/dogfood14.217776b39309c79f4aee.png",
+    "static/media/dogfood2.png": "/static/media/dogfood2.e7a4cd40de136e02abbb.png",
+    "static/media/dogfood1.png": "/static/media/dogfood1.108a3ef3c462744643d8.png",
+    "static/media/dogfood10.png": "/static/media/dogfood10.0e2d3af194fcf5a1308c.png",
+    "static/media/dogfood12.png": "/static/media/dogfood12.cde71a78fa1ccc170d2e.png",
+    "index.html": "/index.html",
+    "main.bb595ce3.css.map": "/static/css/main.bb595ce3.css.map",
+    "main.20062027.js.map": "/static/js/main.20062027.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb595ce3.css",
+    "static/js/main.20062027.js"
+  ]
+}
