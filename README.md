@@ -1,1 +1,1 @@
-#  배포주소 #  https://jiheebyun.github.io
+#  배포주소:  https://jiheebyun.github.io
